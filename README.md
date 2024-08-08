@@ -1,3 +1,5 @@
+Copied from https://github.com/tjarvstrand/flutter_timezone
+
 # flutter_timezone
 
 A flutter plugin for getting the local timezone of the OS.
